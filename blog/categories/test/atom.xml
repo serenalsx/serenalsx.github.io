@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Annie's Pug]]></title>
-  <link href="http://serenalsx.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Test | Annie's Pug]]></title>
+  <link href="http://serenalsx.github.io/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://serenalsx.github.io/"/>
   <updated>2014-02-01T19:20:04+08:00</updated>
   <id>http://serenalsx.github.io/</id>
@@ -20,14 +20,6 @@
     <id>http://serenalsx.github.io/blog/2014/02/01/post-Illusion</id>
     <content type="html"><![CDATA[
 ]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Post Illusion.markdown]]></title>
-    <link href="http://serenalsx.github.io/blog/2014/02/01/post-Illusion.markdown/"/>
-    <updated>2014-02-01T00:00:00+08:00</updated>
-    <id>http://serenalsx.github.io/blog/2014/02/01/post-Illusion.markdown</id>
-    <content type="html"><![CDATA[]]></content>
   </entry>
   
 </feed>
