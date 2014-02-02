@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Deep Night"
+date: 2014-02-03 01:45:35 +0800
+comments: true
+categories: quote, criminal minds
+---
+
+{% blockquote Eugene O'Neill http://www.goodreads.com/author/show/7680.Eugene_O_Neill%}
+There is no present or future-only the past, happening over and over again-now.
+{% endblockquote %}
