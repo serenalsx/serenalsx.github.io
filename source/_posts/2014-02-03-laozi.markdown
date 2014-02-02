@@ -1,0 +1,9 @@
+---
+layout: post
+title: "laozi"
+date: 2014-02-03 01:35:05 +0800
+comments: true
+categories: 
+---
+
+天之道，损有余而补不足
