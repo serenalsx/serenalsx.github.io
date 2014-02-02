@@ -4,7 +4,7 @@
   <title><![CDATA[Annie's Pug]]></title>
   <link href="http://serenalsx.github.io/atom.xml" rel="self"/>
   <link href="http://serenalsx.github.io/"/>
-  <updated>2014-02-02T12:26:04+08:00</updated>
+  <updated>2014-02-02T12:37:10+08:00</updated>
   <id>http://serenalsx.github.io/</id>
   <author>
     <name><![CDATA[Serena]]></name>
@@ -15,19 +15,19 @@
   
   <entry>
     <title type="html"><![CDATA[Illusion]]></title>
-    <link href="http://serenalsx.github.io/blog/2014/02/01/post-Illusion/"/>
+    <link href="http://serenalsx.github.io/blog/2014/02/01/post-Illusion.markdown/"/>
     <updated>2014-02-01T19:15:00+08:00</updated>
-    <id>http://serenalsx.github.io/blog/2014/02/01/post-Illusion</id>
-    <content type="html"><![CDATA[
-]]></content>
+    <id>http://serenalsx.github.io/blog/2014/02/01/post-Illusion.markdown</id>
+    <content type="html"><![CDATA[]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Post Illusion.markdown]]></title>
-    <link href="http://serenalsx.github.io/blog/2014/02/01/post-Illusion.markdown/"/>
-    <updated>2014-02-01T00:00:00+08:00</updated>
-    <id>http://serenalsx.github.io/blog/2014/02/01/post-Illusion.markdown</id>
-    <content type="html"><![CDATA[]]></content>
+    <title type="html"><![CDATA[Illusion]]></title>
+    <link href="http://serenalsx.github.io/blog/2014/02/01/post-Illusion/"/>
+    <updated>2014-02-01T19:15:00+08:00</updated>
+    <id>http://serenalsx.github.io/blog/2014/02/01/post-Illusion</id>
+    <content type="html"><![CDATA[<p>Some People are Worth Melting For</p>
+]]></content>
   </entry>
   
 </feed>
