@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Mind | Annie's Pug]]></title>
+  <link href="http://serenalsx.github.io/blog/categories/mind/atom.xml" rel="self"/>
+  <link href="http://serenalsx.github.io/"/>
+  <updated>2014-02-01T19:23:30+08:00</updated>
+  <id>http://serenalsx.github.io/</id>
+  <author>
+    <name><![CDATA[Serena]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Illusion]]></title>
+    <link href="http://serenalsx.github.io/blog/2014/02/01/post-Illusion/"/>
+    <updated>2014-02-01T19:15:00+08:00</updated>
+    <id>http://serenalsx.github.io/blog/2014/02/01/post-Illusion</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
