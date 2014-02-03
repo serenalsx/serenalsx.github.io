@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Minds | Annie's Pug]]></title>
   <link href="http://serenalsx.github.io/blog/categories/minds/atom.xml" rel="self"/>
   <link href="http://serenalsx.github.io/"/>
-  <updated>2014-02-03T01:56:38+08:00</updated>
+  <updated>2014-02-03T12:39:26+08:00</updated>
   <id>http://serenalsx.github.io/</id>
   <author>
     <name><![CDATA[Serena]]></name>
@@ -15,12 +15,19 @@
   
   <entry>
     <title type="html"><![CDATA[Deep Night]]></title>
+    <link href="http://serenalsx.github.io/blog/2014/02/03/deep-night.markdown/"/>
+    <updated>2014-02-03T01:45:35+08:00</updated>
+    <id>http://serenalsx.github.io/blog/2014/02/03/deep-night.markdown</id>
+    <content type="html"><![CDATA[<p><blockquote><p>There is no present or future-only the past, happening over and over again-now.</p><footer><strong>Eugene O'Neill <a href="http://www.goodreads.com/author/show/7680.Eugene_O_Neill">http://www.goodreads.com/author/show/7680.Eugene_O_Neill</a></strong></footer></blockquote></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Deep Night]]></title>
     <link href="http://serenalsx.github.io/blog/2014/02/03/deep-night/"/>
     <updated>2014-02-03T01:45:35+08:00</updated>
     <id>http://serenalsx.github.io/blog/2014/02/03/deep-night</id>
-    <content type="html"><![CDATA[<p>{% blockquote Eugene O'Neill <a href="http://www.goodreads.com/author/show/7680.Eugene_O_Neill%">http://www.goodreads.com/author/show/7680.Eugene_O_Neill%</a>}
-There is no present or future-only the past, happening over and over again-now.
-{% endblockquote %}</p>
+    <content type="html"><![CDATA[<p>There is no present or future-only the past, happening over and over again-now.</p>
 ]]></content>
   </entry>
   
