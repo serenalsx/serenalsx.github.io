@@ -100,8 +100,8 @@ duoshuo_asides_admin: 0
 duoshuo_asides_length: 18   
 
 # Disqus Comments
-disqus_short_name: 
-disqus_show_comment_count: false
+#disqus_short_name: 
+#disqus_show_comment_count: false
 
 # Google Analytics
 google_analytics_tracking_id: UA-47711859-1

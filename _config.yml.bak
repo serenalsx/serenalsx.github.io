@@ -92,12 +92,12 @@ delicious_count: 3
 # duoshuo comments
 duoshuo_comments: true
 duoshuo_short_name: serena
-#duoshuo_asides_num: 10    
-#duoshuo_asides_avatars: 0
-#duoshuo_asides_time: 0    
-#duoshuo_asides_title: 0     
-#duoshuo_asides_admin: 0     
-#duoshuo_asides_length: 18   
+duoshuo_asides_num: 10    
+duoshuo_asides_avatars: 0
+duoshuo_asides_time: 0    
+duoshuo_asides_title: 0     
+duoshuo_asides_admin: 0     
+duoshuo_asides_length: 18   
 
 # Disqus Comments
 disqus_short_name: 
