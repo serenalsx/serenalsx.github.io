@@ -4,7 +4,7 @@
   <title><![CDATA[Annie's Pug]]></title>
   <link href="http://serenalsx.github.io/atom.xml" rel="self"/>
   <link href="http://serenalsx.github.io/"/>
-  <updated>2014-02-05T14:23:20+08:00</updated>
+  <updated>2014-02-05T14:50:16+08:00</updated>
   <id>http://serenalsx.github.io/</id>
   <author>
     <name><![CDATA[Serena]]></name>
@@ -15,10 +15,18 @@
   
   <entry>
     <title type="html"><![CDATA[Island]]></title>
+    <link href="http://serenalsx.github.io/blog/2014/02/05/island.markdown/"/>
+    <updated>2014-02-05T13:00:16+08:00</updated>
+    <id>http://serenalsx.github.io/blog/2014/02/05/island.markdown</id>
+    <content type="html"><![CDATA[No where to belong, no where to hide, no where can rest in peace.]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Island]]></title>
     <link href="http://serenalsx.github.io/blog/2014/02/05/island/"/>
     <updated>2014-02-05T13:00:16+08:00</updated>
     <id>http://serenalsx.github.io/blog/2014/02/05/island</id>
-    <content type="html"><![CDATA[<p>No where to belong, no where to hide, no where can rest in peace.</p>
+    <content type="html"><![CDATA[<p>No where to belong, no where to hide, no where can rest in peace, only trembling in Blizzard.</p>
 ]]></content>
   </entry>
   
