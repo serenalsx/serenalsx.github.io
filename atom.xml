@@ -4,7 +4,7 @@
   <title><![CDATA[Annie's Pug]]></title>
   <link href="http://serenalsx.github.io/atom.xml" rel="self"/>
   <link href="http://serenalsx.github.io/"/>
-  <updated>2014-02-03T12:39:26+08:00</updated>
+  <updated>2014-02-05T12:56:53+08:00</updated>
   <id>http://serenalsx.github.io/</id>
   <author>
     <name><![CDATA[Serena]]></name>
@@ -12,32 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Deep Night]]></title>
-    <link href="http://serenalsx.github.io/blog/2014/02/03/deep-night.markdown/"/>
-    <updated>2014-02-03T01:45:35+08:00</updated>
-    <id>http://serenalsx.github.io/blog/2014/02/03/deep-night.markdown</id>
-    <content type="html"><![CDATA[<blockquote><p>There is no present or future-only the past, happening over and over again-now.</p><footer><strong>Eugene O&#8217;Neill</strong> <cite><a href='http://www.goodreads.com/author/show/7680.Eugene_O_Neill'>www.goodreads.com/author/show/&hellip;</a></cite></footer></blockquote>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Deep Night]]></title>
-    <link href="http://serenalsx.github.io/blog/2014/02/03/deep-night/"/>
-    <updated>2014-02-03T01:45:35+08:00</updated>
-    <id>http://serenalsx.github.io/blog/2014/02/03/deep-night</id>
-    <content type="html"><![CDATA[<p>There is no present or future-only the past, happening over and over again-now.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Illusion]]></title>
-    <link href="http://serenalsx.github.io/blog/2014/02/01/post-Illusion/"/>
-    <updated>2014-02-01T19:15:00+08:00</updated>
-    <id>http://serenalsx.github.io/blog/2014/02/01/post-Illusion</id>
-    <content type="html"><![CDATA[<p>Some People are Worth Melting For</p>
-]]></content>
-  </entry>
   
 </feed>
