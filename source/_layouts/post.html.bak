@@ -26,12 +26,15 @@ single: true
   </footer>
 </article>
 
-{% if site.duoshuo_show_comment_count==true %}
-<section imagesd="comment">
-<h1>Comments</h1>
-{% include post/duoshuo.html %}
-</section>
+{% if site.duoshuo_comments==true%}
+  <section  imagesd="comment">
+    <h1>Comments</h1>
+    {% include post/duoshuo.html %}
+  </section>
 {% endif %}
+
+
+
 </div>
 {% unless page.sidebar == false %}
 <aside class="sidebar">
