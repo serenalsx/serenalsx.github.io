@@ -101,6 +101,18 @@
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
     
+      <li class="post">
+        <a href="/blog/2014/02/05/island/">Island</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/02/03/deep-night/">Deep Night</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/02/01/Illusion/">Illusion</a>
+      </li>
+    
   </ul>
 </section>
 
